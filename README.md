@@ -4,7 +4,7 @@
 
 ### Je transforme des idées concrètes en produits web et mobiles utiles, pensés pour fonctionner dans le monde réel.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Django+REST+%C2%B7+PHP+%C2%B7+MySQL;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+PWA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=React+%C2%B7+TypeScript+%C2%B7+Vite;Django+REST+%C2%B7+Laravel;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Room)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-elfreddev.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://elfreddev.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Disponible-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22941820082)
@@ -26,22 +26,21 @@ I am Elfred, a self-taught developer based in Benin. I build useful web and mobi
 
 Je suis Elfred, développeur autodidacte basé au Bénin. Je construis des applications web et mobiles pour des usages concrets : communiquer, vendre, lire, organiser et suivre des livraisons. J'aime passer d'une idée à une expérience utilisable, en travaillant aussi bien l'interface que l'API et les données. En ce moment, j'approfondis Kotlin/Jetpack Compose et les architectures TypeScript avec TanStack Query.
 
-## Stack
+## Stack des projets en vedette
+
+Les technologies affichées ici correspondent uniquement aux projets présentés ci-dessous.
 
 **Frontend**  
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,typescript,vite)](https://skillicons.dev) `TanStack Query`
 
 **Backend**  
-[![Backend](https://skillicons.dev/icons?i=python,django,php,laravel)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django,laravel)](https://skillicons.dev) `Django REST Framework`
 
 **Mobile**  
-[![Mobile](https://skillicons.dev/icons?i=kotlin,android,flutter,dart)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=kotlin,android)](https://skillicons.dev) `Jetpack Compose` · `Room`
 
-**Données**  
-[![Data](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) `IndexedDB` · `Room`
-
-**Outils et pratiques**  
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions)](https://skillicons.dev) `TanStack Query` · `REST` · `JWT`
+**Données et stockage local**  
+`IndexedDB`
 
 ## Projets en vedette
 
